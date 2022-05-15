@@ -87,3 +87,5 @@ class GameOver:
         w, h = WORLD_DIM
         center = (w // 2, h // 2)
         surf.blit(self.game_over_sprite, self.game_over_sprite.get_rect(center=center))
+
+
