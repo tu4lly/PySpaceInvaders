@@ -1,5 +1,5 @@
 import pygame
-#kommentar
+
 from config import *
 
 
